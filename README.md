@@ -33,4 +33,4 @@ scrapy crawl name_of_spider -o name_file_csv.csv
 sort -u -k3,3 -t";" name_file_csv.csv > file_without_dup.csv
 ```
 # FR_ACHATTERRAIN
-# FR_ACHATTERRAIN
+
